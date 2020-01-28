@@ -16,5 +16,9 @@ class ViewController: UIViewController {
     }
 
 
+    @IBAction func KnockKNockBUttonPressed(_ sender: Any) {print("Who's there")
+    }
+    @IBAction func PressMeButtonPressed(_ sender: Any) {print("Hello World")
+    }
 }
 
